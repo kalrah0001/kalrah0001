@@ -9,6 +9,10 @@ An aspiring Software Developer
 * 🧠  I'm learning C++ and DSA
 * ⚡  I hate everyone
 
+<div align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300">
+</div>
+
 <a href="https://www.github.com/kalrah0001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kalrah0001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
