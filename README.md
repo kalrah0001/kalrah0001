@@ -51,7 +51,11 @@ src="https://img.shields.io/twitter/follow/hkalra000?logo=twitter&style=for-the-
     <h2>
       🛠️ Tools & Languages 🛠️
     </h2>
-  </summary>
+  </summary>  
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,css,html,vscode,powershell,git,github&perline=3">
+  </p>
 </details>
 <details open>
   <summary>
