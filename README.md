@@ -37,13 +37,13 @@ src="https://img.shields.io/twitter/follow/hkalra000?logo=twitter&style=for-the-
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalrah0001&theme=github-compact&radius=15)](https://github.com/kalrah0001/github-readme-activity-graph)
   <br>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kalrah0001&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kalrah0001&theme=chartreuse-dark&border_radius=10)](https://git.io/streak-stats)
 
 
 
 <a href="http://www.github.com/kalrah0001"><img src="https://github-readme-stats.vercel.app/api?username=kalrah0001&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kalrah0001's GitHub stats" /></a>
 
-<a href="https://github.com/kalrah0001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalrah0001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kalrah0001"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalrah0001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 </details>
 <details open>
@@ -63,4 +63,5 @@ src="https://img.shields.io/twitter/follow/hkalra000?logo=twitter&style=for-the-
       🌐 Find Me On Internet
     </h2>
   </summary>
-
+  
+</details>
